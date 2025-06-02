@@ -24,6 +24,7 @@ LeetCode Parctice Questions and Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ LeetCode Parctice Questions and Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
