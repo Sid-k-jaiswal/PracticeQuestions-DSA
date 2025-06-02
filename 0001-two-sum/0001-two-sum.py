@@ -1,21 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
-        # brute force -------------- O(n*n)
-        # for i in range(len(nums)):
-        #     for j in range(i+1, len(nums)):
-        #         if nums[j] + nums[i] == target:
-        #             return [i,j]
-        # return []
+        my_map = {}
 
-        # hashmap ------------------ O(n)
-        hashmap = {}
-        for i in range(len(nums)):
-            res = target - nums[i]
+        for i, num in enumerate(nums):
 
-            if res in hashmap:
-                return [i, hashmap[res]]
+            complement = target - num
 
-            hashmap[nums[i]] = i
+            if complement in my_map:
+                return [i, my_map[complement]]
 
-        return []
+            my_map[num] = i
+        
+        return [-1,-1]
