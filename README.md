@@ -9,12 +9,14 @@ LeetCode Parctice Questions and Solutions
 | [0001-two-sum](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -30,6 +32,7 @@ LeetCode Parctice Questions and Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -43,6 +46,7 @@ LeetCode Parctice Questions and Solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
