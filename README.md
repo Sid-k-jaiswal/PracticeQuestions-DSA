@@ -16,6 +16,7 @@ LeetCode Parctice Questions and Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ LeetCode Parctice Questions and Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -42,4 +44,5 @@ LeetCode Parctice Questions and Solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
