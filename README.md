@@ -11,6 +11,7 @@ LeetCode Parctice Questions and Solutions
 | [0027-remove-element](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -56,4 +57,9 @@ LeetCode Parctice Questions and Solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
