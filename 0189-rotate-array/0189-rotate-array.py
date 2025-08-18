@@ -25,7 +25,7 @@ class Solution:
 
         tmp_array = [0]*len(nums)
 
-        k = k % len(nums)
+        # k = k % len(nums)
 
         for i in range(len(nums)):
             tmp_array[(i+k)%len(nums)] = nums[i]
