@@ -14,6 +14,7 @@ LeetCode Parctice Questions and Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ LeetCode Parctice Questions and Solutions
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
