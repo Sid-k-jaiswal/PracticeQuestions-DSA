@@ -14,6 +14,7 @@ LeetCode Parctice Questions and Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
 | [1929-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -23,6 +24,7 @@ LeetCode Parctice Questions and Solutions
 | [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@ LeetCode Parctice Questions and Solutions
 | [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +73,8 @@ LeetCode Parctice Questions and Solutions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
