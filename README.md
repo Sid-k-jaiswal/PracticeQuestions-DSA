@@ -16,6 +16,7 @@ LeetCode Parctice Questions and Solutions
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1470-shuffle-the-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/2058-concatenation-of-array) |
 ## Hash Table
