@@ -14,6 +14,7 @@ LeetCode Parctice Questions and Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1470-shuffle-the-array) |
