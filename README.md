@@ -14,6 +14,7 @@ LeetCode Parctice Questions and Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -28,6 +29,7 @@ LeetCode Parctice Questions and Solutions
 | [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
