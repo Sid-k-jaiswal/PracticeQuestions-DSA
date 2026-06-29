@@ -16,6 +16,7 @@ LeetCode Parctice Questions and Solutions
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1929-concatenation-of-array) |
@@ -28,6 +29,7 @@ LeetCode Parctice Questions and Solutions
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@ LeetCode Parctice Questions and Solutions
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +85,8 @@ LeetCode Parctice Questions and Solutions
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
