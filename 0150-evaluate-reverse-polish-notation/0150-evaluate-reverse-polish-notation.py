@@ -6,7 +6,6 @@ class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
 
         expressions = {"+", "-", "*", "/"}
-        
         stack = []
 
         for i in tokens:
