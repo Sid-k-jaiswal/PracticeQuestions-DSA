@@ -12,6 +12,7 @@ LeetCode Parctice Questions and Solutions
 | [0049-group-anagrams](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,6 +57,7 @@ LeetCode Parctice Questions and Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0155-min-stack) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
@@ -82,6 +84,7 @@ LeetCode Parctice Questions and Solutions
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sid-k-jaiswal/PracticeQuestions-DSA/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
